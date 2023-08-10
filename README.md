@@ -1,5 +1,5 @@
 
-# k8s-projeto1-app-base-main
+# Projeto de deploy para cluster K8S com front/back-end e database
 ### projeto-k8s-app-01
 
 Projeto de deploy de uma aplicação completa com frontend, backend e database mysql.
